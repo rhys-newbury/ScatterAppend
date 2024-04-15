@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='scatter-append',
-    version='0.2',
+    version='0.3',
     description='A utility for scatter appending to mutable sequences.',
     author='Rhys Newbury, Bryce Ferenczi',
     author_email='rhys.newbury@monash.edu, bryce.ferenczi@monash.edu',
