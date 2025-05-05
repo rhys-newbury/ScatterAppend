@@ -1,5 +1,6 @@
 from typing import MutableSequence, Any, Tuple
 
+
 class ScatterAppend:
     @classmethod
     def make_n(cls, n: int):

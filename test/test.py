@@ -1,6 +1,7 @@
 from scatter_append import ScatterAppend
 import pytest
 
+
 @pytest.fixture
 def list_examples():
     xs: list[int] = [1, 2, 3, 4]
