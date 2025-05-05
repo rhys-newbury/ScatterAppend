@@ -19,8 +19,8 @@ classifiers = [
   "Operating System :: OS Independent"
 ]
 
-# Optional: set your homepage (shown prominently on PyPI)
-homepage = "https://github.com/rhys-newbury/ScatterAppend"
+[project.urls]
+"Homepage" = "https://github.com/rhys-newbury/ScatterAppend"
 
 [tool.black]
 line-length = 88
